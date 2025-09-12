@@ -1,0 +1,11 @@
+transformers==4.50.1
+sounddevice==0.5.1
+torch==2.7.1
+scipy==1.9.3
+jiwer==4.0.0
+numba==0.60.0
+numpy==1.23.3
+tqdm
+more-itertools
+tiktoken
+triton>=2.0.0;platform_machine=="x86_64" and sys_platform=="linux" or sys_platform=="linux2"
