@@ -50,7 +50,7 @@ Follow these steps to set up the environment and install dependencies for infere
    ```sh
    pip install hailort-4.21.0-cp310-cp310-linux_x86_64.whl
    ```
-   PyHailoRT is version must match the installed HailoRT version. PyHailoRT is useful to test the converted model if you have an Hailo-8 module connected to the PC used for development.
+   PyHailoRT is version must match the installed HailoRT version. PyHailoRT is useful to test the converted model if you have an Hailo module connected to the PC used for development.
 
 
 ## Model conversion
@@ -62,6 +62,8 @@ Once the installation is completed, please proceed with the [Model Conversion](d
 
 For instructions to install and run an app using converted HEF files, please refer to the [Speech Recognition example](https://github.com/hailo-ai/Hailo-Application-Code-Examples/blob/main/runtime/hailo-8/python/speech_recognition/README.md).
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Disclaimer
 This code example is provided by Hailo solely on an “AS IS” basis and “with all faults”. No responsibility or liability is accepted or shall be imposed upon Hailo regarding the accuracy, merchantability, completeness or suitability of the code example. Hailo shall not have any liability or responsibility for errors or omissions in, or any business decisions made by you in reliance on this code example or any part of it. If an error occurs when running this example, please open a ticket in the "Issues" tab.
