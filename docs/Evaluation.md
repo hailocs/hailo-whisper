@@ -61,7 +61,7 @@ options:
 
   ```
 
-## Emulation
+## Evaluation
 
 The same flags used in testbench,py are valid also for evaluation, with the addition of *--num-samples* argument to specify the amount of input audio files the evaluation should be run on.
 
